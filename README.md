@@ -1,11 +1,11 @@
-<h1 align="center">Hola 👋, Ni nombre es Lucas!</h1>
+<h1 align="center">Hola 👋, Mi nombre es Lucas!</h1>
 <h3 align="center">Soy un <b>Promgramador FullStack con orientacion a el desarrollo web</b> </h3>
 
 - 🔭 Actualmente estoy trabajando en [Psiconnection](https://psiconnectiondev.vercel.app/)
 
 - 🌱 Actualmente me estoy capacitando en **Java, Css framewoks**
 
-- 📫 Puedes contactarme con el mail:**gaitonlucas7@gmail.com**
+- 📫 Puedes contactarme con el mail: **gaitonlucas7@gmail.com**
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
